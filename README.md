@@ -57,5 +57,3 @@ A dynamic desktop calendar application built with Python and Tkinter that displa
 This application provides a comprehensive calendar solution with modern UI elements and convenient online integration for enhanced date exploration.
 
 
-<!-- AUTO UPDATE -->
-Last maintenance: 2026-08-06 06:04 UTC
